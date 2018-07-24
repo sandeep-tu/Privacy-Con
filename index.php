@@ -96,7 +96,7 @@ _______________________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Woodside Elementary School District&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contractor
 <br><br>
 
-<center><input type="submit" name="submit" value="Generate PDF"></center>
+<center><input type="submit" name="submit" value="Create PDF"></center>
 </form>
 
 </div>
