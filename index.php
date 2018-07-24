@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title> Form</title>
+	<title> Privacy Contract Form</title>
 
 	<link rel="stylesheet" type="text/css" href="mystyle.css">
 
